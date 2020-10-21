@@ -1,5 +1,5 @@
 {
-  "name": "compression",
+  "name": "compression-with-brotli",
   "description": "Node.js compression middleware",
   "version": "1.7.4",
   "contributors": [
